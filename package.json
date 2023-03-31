@@ -12,11 +12,18 @@
     "@types/node": "18.15.11",
     "@types/react": "18.0.31",
     "@types/react-dom": "18.0.11",
+    "clipboard": "^2.0.11",
     "eslint": "8.37.0",
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
     "react": "18.2.0",
+    "react-copy": "^1.2.1",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "18.2.0",
+    "to": "^0.2.9",
     "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/react-copy-to-clipboard": "^5.0.4"
   }
 }
